@@ -3,7 +3,7 @@
   "platforms": {
     "ios": "5.0"
   },
-  "version": "2.6.1",
+  "version": "2.6.1-afoo1",
   "license": {
     "type": "BSD",
     "file": "COPYING.txt"
